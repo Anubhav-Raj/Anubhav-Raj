@@ -1,3 +1,4 @@
+
 # Hi 👐  I'm Anubhav Rajput <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img align='right' width="400" src="output-onlinepngtools.png">
 </br>
 
@@ -7,6 +8,9 @@
 
 - :dart: Web Developer  
 - :e-mail: Ask me about anything  **[rajputanubhav65@gmailcom](rajputanubhav65@gmailcom)**
+ - 💬 Ask me about **HTML,PHP,MYsql,C++**
+ - 📝 I regularly write articles on [https://bestcooding.blogspot.com/](https://bestcooding.blogspot.com/)
+ - 🌱 I’m currently learning **Data Structures Algorithms**
 <!--- :satellite: My Website **[Click Here](https://sumitt1080.github.io/#/)**-->
 
 <p>I am pursing my B tech in Electronics & Communication Engineering and being at the these hold of IT industry.
@@ -21,15 +25,8 @@ I find myself very good at creating something from the scratch.</p>
 
 
 ### Languages and Tools :computer:
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-[![C++](https://img.shields.io/badge/-cpp-0175C2?style=flat&logo=c++&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj)
-[![PHP](https://img.shields.io/badge/-PHP-02569B?style=flat&logo=flutter&link=https://github.com/Anubhav-Raj)](https://github.com/Rajput)
-[![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=html&logoColor=white&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj)
-[![HTML](https://img.shields.io/badge/Html-orange?style=flat&logo=html&logoColor=white&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj)
-[![MTSQL](https://img.shields.io/badge/-mysql-pink?style=flat&logo=mysql&link=https://github.com/Anubhav-Raj)](https://github.com/Anubhav-Raj)
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-Raj&theme=dracula&hide_langs_below=1" /></br>
 
 
 ### Here are some ideas to get you started:
@@ -42,8 +39,11 @@ I find myself very good at creating something from the scratch.</p>
 - 📫 How to reach me: **rajputanubhav65@gmail.com**
 <!--- ⚡ Fun fact: **I play too much video games than coding**-->
 <!-- - 😄 Pronouns: ... -->
-
+<img src="https://komarev.com/ghpvc/?username=anubhav-raj&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-raj" /> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav-raj" alt="anubhav-raj" /></a> 
 
 ### Reach out to me 👓
 
 <a href="https://twitter.com/anubhav00225547"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/Anubhav-Raj"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/anubhav.rajput.9619"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%AA%F0%9D%99%97%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%AB-rajput-a9a6861b7/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/anubhavrajput8877/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+<a href="https://www.codechef.com/users/anubhav_rajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anubhav_rajput" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rajputanubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajputanubhav" height="30" width="40" /></a>
