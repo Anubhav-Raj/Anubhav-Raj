@@ -7,23 +7,16 @@
 
 - :dart: Web Developer  
 - :e-mail: Ask me about anything  **[rajputanubhav65@gmailcom](rajputanubhav65@gmailcom)**
-
-
+<!--- :satellite: My Website **[Click Here](https://sumitt1080.github.io/#/)**-->
 
 <p>I am pursing my B tech in Electronics & Communication Engineering and being at the these hold of IT industry.
 I want to explore various growing technologies such as AI, Data  Analytics and automation.
 I am open to learn anything which utilizes and enhance my programming knowledge. Along with my studies, I work on some web dev projects.
 I find myself very good at creating something from the scratch.</p>
 
-<!--- :satellite: My Website **[Click Here](https://sumitt1080.github.io/#/)**-->
-![output-onlinepngtools](https://user-images.githubusercontent.com/72142278/143057121-360e765a-88e8-46a5-b82a-d53d87011a6f.png)
 
 
 ![Anubhav Raj github stats](https://github-readme-stats.vercel.app/api?username=Anubhav-raj&show_icons=true&theme=dracula)
-
-
-
-
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-raj&theme=tokyonight)
 
 
