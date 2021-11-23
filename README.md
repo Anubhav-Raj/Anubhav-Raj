@@ -1,4 +1,4 @@
-Hi 👋, I'm Anubhav Rajput <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sumitt1080/master/Github.jpg">
+# Hi 👐  I'm Anubhav Rajput <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img align='right' width="400" src="output-onlinepngtools.png">
 </br>
 
 👨‍🎓 B.Tech in Electronics & Communication Engineering from the **[SLITE Panjab](http://sliet.ac.in/)** 
@@ -7,10 +7,14 @@ Hi 👋, I'm Anubhav Rajput <img src="https://raw.githubusercontent.com/ABSphrea
 
 - :dart: Web Developer  
 - :e-mail: Ask me about anything  **[rajputanubhav65@gmailcom](rajputanubhav65@gmailcom)**
-- :satellite: My Website **[Click Here](https://sumitt1080.github.io/#/)**
+<!--- :satellite: My Website **[Click Here](https://sumitt1080.github.io/#/)**-->
 
 
 ![Anubhav Raj github stats](https://github-readme-stats.vercel.app/api?username=Anubhav-raj&show_icons=true&theme=dracula)
+
+
+
+
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-raj&theme=tokyonight)
 
 
