@@ -2,7 +2,7 @@
 # Hi 👐  I'm Anubhav Rajput <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img align='right' width="400" src="output-onlinepngtools.png">
 </br>
 
-👨‍🎓 B.Tech in Electronics & Communication Engineering from the **[SLITE Panjab](http://sliet.ac.in/)** 
+👨‍🎓 B.Tech in Electronics & Communication Engineering from the **[SLITE Punjab](http://sliet.ac.in/)** 
 
 ### About me :eyes:
 
